@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fyrWxDDkA6XURpdfVb5U0oMeTT2ntBPFmXmCk6Ah/AN3JZAy8ql4HLIU9SmOY35YqX+WaPU0ITAy/ifIAKV5Gg==",
+  "success": true,
+  "projectFilePath": "/Users/mariacarreno/Documents/GitHub/IMAT/Practica1.csproj",
+  "expectedPackageFiles": [
+    "/Users/mariacarreno/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/mariacarreno/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/mariacarreno/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
