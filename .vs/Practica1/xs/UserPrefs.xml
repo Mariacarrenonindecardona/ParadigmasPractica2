@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{A4CD6944-F718-4D56-89FD-9A2F349C20A9}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Vehicle.cs">
+    <Files>
+      <File FileName="Vehicle.cs" Line="4" Column="6" />
+      <File FileName="PruebaGitHub.cs" Line="2" Column="19" />
+      <File FileName="Skate.cs" Line="8" Column="4" />
+      <File FileName="VehicleWithPlate.cs" Line="12" Column="4" />
+      <File FileName="VehicleWithoutPlate.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Practica1">
+            <Node name="Practica1">
+              <Node name="Vehicle.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Practica1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

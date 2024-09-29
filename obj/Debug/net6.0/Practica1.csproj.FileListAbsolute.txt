@@ -1,0 +1,15 @@
+/Users/mariacarreno/Documents/GitHub/IMAT/bin/Debug/net6.0/Practica1
+/Users/mariacarreno/Documents/GitHub/IMAT/bin/Debug/net6.0/Practica1.deps.json
+/Users/mariacarreno/Documents/GitHub/IMAT/bin/Debug/net6.0/Practica1.runtimeconfig.json
+/Users/mariacarreno/Documents/GitHub/IMAT/bin/Debug/net6.0/Practica1.dll
+/Users/mariacarreno/Documents/GitHub/IMAT/bin/Debug/net6.0/Practica1.pdb
+/Users/mariacarreno/Documents/GitHub/IMAT/obj/Debug/net6.0/Practica1.csproj.AssemblyReference.cache
+/Users/mariacarreno/Documents/GitHub/IMAT/obj/Debug/net6.0/Practica1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariacarreno/Documents/GitHub/IMAT/obj/Debug/net6.0/Practica1.AssemblyInfoInputs.cache
+/Users/mariacarreno/Documents/GitHub/IMAT/obj/Debug/net6.0/Practica1.AssemblyInfo.cs
+/Users/mariacarreno/Documents/GitHub/IMAT/obj/Debug/net6.0/Practica1.csproj.CoreCompileInputs.cache
+/Users/mariacarreno/Documents/GitHub/IMAT/obj/Debug/net6.0/Practica1.dll
+/Users/mariacarreno/Documents/GitHub/IMAT/obj/Debug/net6.0/refint/Practica1.dll
+/Users/mariacarreno/Documents/GitHub/IMAT/obj/Debug/net6.0/Practica1.pdb
+/Users/mariacarreno/Documents/GitHub/IMAT/obj/Debug/net6.0/Practica1.genruntimeconfig.cache
+/Users/mariacarreno/Documents/GitHub/IMAT/obj/Debug/net6.0/ref/Practica1.dll

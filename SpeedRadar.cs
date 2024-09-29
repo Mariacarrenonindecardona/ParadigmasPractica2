@@ -1,6 +1,6 @@
 ﻿namespace Practice1
 {
-    class SpeedRadar : IMessageWritter
+    public class SpeedRadar : IMessageWritter
     {
         //Radar doesn't know about Vechicles, just speed and plates
         private string plate;
@@ -15,7 +15,7 @@
             SpeedHistory = new List<float>();
         }
 
-        public void TriggerRadar(Vehicle vehicle)
+        public void TriggerRadar(VehicleWithPlate vehicle)
         {
             plate = vehicle.GetPlate();
             speed = vehicle.GetSpeed();

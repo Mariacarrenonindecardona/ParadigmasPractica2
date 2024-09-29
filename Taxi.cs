@@ -1,6 +1,6 @@
 ﻿namespace Practice1
 {
-    class Taxi : Vehicle
+    class Taxi : VehicleWithPlate
     {
         //constant string as TypeOfVehicle wont change allong PoliceCar instances.
         private static string typeOfVehicle = "Taxi";
@@ -26,6 +26,32 @@
             else
             {
                 Console.WriteLine(WriteMessage("is already in a ride."));
+            }
+        }
+
+        public void GiveLicense()
+        {
+            if (license) //Tenemos que comprobar que tiene licencia
+            {
+                Console.WriteLine(WriteMessage("already has a license."));
+            }
+            else
+            {
+                license = true;
+                Console.WriteLine(WriteMessage("you have received a license."));
+            }
+        }
+
+        public void TakeLicense()
+        {
+            if (license) //Tenemos que comprobar que tiene licencia
+            {
+                license = true;
+                Console.WriteLine(WriteMessage("your license has been taken"));
+            }
+            else
+            {
+                Console.WriteLine(WriteMessage("you didn't have a license"));
             }
         }
 
