@@ -7,13 +7,14 @@ namespace Practice1
 	{
 		public List<PoliceCar> policeCars { get; private set; }
 		public PoliceStation()
+
 		{
 			policeCars = new List<PoliceCar>();
 		}
 
-		public PoliceCar AddPoliceCar(string newPlate)
+		public PoliceCar AddPoliceCar(string newPlate, SpeedRadar? speedRadar = null)
 		{
-            PoliceCar policeCar = new PoliceCar(newPlate, this); //Relacion de composicion
+            PoliceCar policeCar = new PoliceCar(newPlate, this, speedRadar); //Relacion de composicion
             policeCars.Add(policeCar);
 			return policeCar;
 		}

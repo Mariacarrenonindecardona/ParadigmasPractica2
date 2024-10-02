@@ -34,6 +34,11 @@
                 }
 
             }
+            else if (speedRadar == null)
+            {
+                Console.WriteLine(WriteMessage($"has no radar."));
+
+            }
             else
             {
                 Console.WriteLine(WriteMessage($"has no active radar."));
@@ -69,6 +74,7 @@
             if (isPatrolling)
             {
                 isPatrolling = false;
+                isPersecuting = false;
                 Console.WriteLine(WriteMessage("stopped patrolling."));
             }
             else
@@ -96,8 +102,15 @@
 
         public void PersecuteVehicle(string infractionPlate)
         {
-            Console.WriteLine(WriteMessage($"Persecuting vehicle with plate: {infractionPlate}"));
-            SetIsPerseuting(true);
+            if (isPersecuting)
+            {
+                Console.WriteLine(WriteMessage("Already persecuting."));
+            }
+            else
+            { 
+                Console.WriteLine(WriteMessage($"Persecuting vehicle with plate: {infractionPlate}"));
+                SetIsPerseuting(true);
+            }
         }
     }
 }
