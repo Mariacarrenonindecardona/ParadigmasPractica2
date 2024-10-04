@@ -1,23 +1,26 @@
 ﻿<Properties StartupConfiguration="{A4CD6944-F718-4D56-89FD-9A2F349C20A9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Skate.cs">
+    <Files>
+      <File FileName="PruebaGitHub.cs" Line="1" Column="1" />
+      <File FileName="Skate.cs" Line="11" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Practica1" expanded="True">
+            <Node name="Practica1" expanded="True">
+              <Node name="Skate.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Practica1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="PoliceStation.cs">
-    <Files>
-      <File FileName="Vehicle.cs" />
-      <File FileName="PruebaGitHub.cs" />
-      <File FileName="City.cs" />
-      <File FileName="Skate.cs" />
-      <File FileName="VehicleWithPlate.cs" />
-      <File FileName="VehicleWithoutPlate.cs" />
-      <File FileName="SpeedRadar.cs" />
-      <File FileName="PoliceStation.cs" Line="1" Column="1" />
-      <File FileName="PoliceCar.cs" Line="1" Column="1" />
-      <File FileName="Main.cs" Line="73" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

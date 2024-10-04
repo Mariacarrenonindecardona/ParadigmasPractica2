@@ -54,6 +54,10 @@
             taxi2.TakeLicense();
             policeCar2.EndPatrolling();
 
+            policeCar1.SetIsPerseuting(false);
+            policeCar3.SetIsPerseuting(false);
+            policeCar5.SetIsPerseuting(false);
+
             taxi1.StartRide();
             taxi1.StartRide();
             policeCar1.StartPatrolling();
@@ -61,6 +65,9 @@
             taxi1.StopRide();
             taxi1.StopRide();
             policeCar1.EndPatrolling();
+
+            policeCar3.SetIsPerseuting(false);
+            policeCar5.SetIsPerseuting(false);
 
             policeCar1.PrintRadarHistory();
             policeCar2.PrintRadarHistory();
